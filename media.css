@@ -1,0 +1,418 @@
+@media only screen
+and (max-device-width : 768px)
+{ 
+    .hide-on-mobile {display:none;}
+    .show-on-mobile {display:inline;}
+    /*section-1*/
+    .contey {
+        margin: 0 18px;    
+        max-width: 100%;
+    }
+   
+.hey {
+    background-image: url("image11.jpg");
+    background-size: cover;
+    height: 561px;
+    padding-top: 85px;
+    position: relative;
+  }
+    .clickkk {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 32px;
+    }
+    .click-3 {
+        margin-left: 0px;
+        margin-top: 26px;
+        width: 338px;
+    }
+    .click-2 {
+        width: 338px;
+    }
+.h11 {
+
+    font-size: 23px;
+    font-weight: 400;
+    line-height: 31px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.h222 {
+font-size: 14px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+width: 340px;
+
+}
+
+/*section-2*/
+.hey-2 {
+    height: 1074px;
+    padding-top: 100px;
+    position: relative;
+    background-color: black;
+}
+.grid {
+    display: grid;
+    grid-template-areas:
+        "hd"
+        "md"
+        "grid-item-hey-2"
+        "od"
+        "hr";
+    height: 552px;
+    margin: 0 auto;
+    justify-content: space-between;
+   justify-items: center;
+}
+.photosec2 {
+    width: 100%;
+    height: 100%; }
+
+.text-4 {
+font-size: 11px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: center;
+width: 340px;
+
+}
+.conn {
+    margin-top: 140px;
+}
+.strelki {
+    grid-area: strel;
+    position: relative;
+    top: 200px;
+    left: 80px;
+    width: 40px;
+    height: 40px;
+}
+.strelki-1 {
+    grid-area: strel-1;
+    position: relative;
+    top: 200px;
+    right: 80px;
+    width: 40px;
+    height: 40px;
+}
+
+.grid-item-hey-2 {
+    display: flex;
+    flex-direction: row;
+    grid-area: grid-item-hey-2;
+    justify-content: center;
+}
+.h1sec2 {
+font-size: 22px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: -0.07em;
+text-align: center;
+width: 200px;
+
+}
+.h2sec2 {
+    padding-top: 0px;
+}
+.h11sec2 {
+font-size: 14px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+}
+.psec2 {
+font-size: 11px;
+font-weight: 400;
+line-height: 15px;
+letter-spacing: 0em;
+
+}
+.psec22 {
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    
+    }
+    .conn1 {
+font-size: 22px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+
+    }
+
+/*section-3*/
+.hey-3 {
+    background-color: black;
+    height: 330px;
+  
+}
+
+.image123 {
+    width: 100%;
+}
+.play {
+    width: 60px;
+}
+.img3 {
+    margin-top: -140px;
+    height: 0;
+    display: inline-block;
+}
+.img-3-1 {
+    display: flex;
+    justify-content: center;
+    margin-top: -160px;
+}
+
+    .text-4 {
+        color: white;
+        
+    }
+        .formag {
+            color: black;
+            padding-top: 93px;
+            justify-content: center;
+            width: 769px;
+            margin: 0 auto;
+            width: 769px;
+            display: grid;
+            grid-template-areas: 
+            "forma"
+            "forma2" 
+            "first-checkbox"
+            "button-forma";
+          }
+
+    .name1 {
+        background-color: black;
+        color: white;
+        border-bottom: 1px solid white
+    }
+    .name {
+        color: #FFFFFF80;
+    }
+    .text {
+        color: white;
+    }
+    .name1::placeholder{
+        color: white;
+    }
+    .forma2 {
+        margin-left: 0px;
+        margin-top: 63px;
+    }
+    .click-4 {
+        margin-top: 80px;
+        width: 340px;
+        margin-left: 0px;
+    }
+    .vectorcon {
+        margin-bottom: 40px;
+    }
+/*section-4*/
+
+.hey-4 {
+    padding-top: 28px;
+    height: auto;
+}
+    .formag {
+        width: 340px;
+        padding-top: 61px;
+    }
+.contre-4 {
+    display: flex;
+    justify-content: center;
+    height: 750px;
+}
+.types {
+    font-family: 'Yeseva One';
+font-size: 22px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.item-text-hey-4 {
+    margin-left: 0px;
+    width: 395px;
+}
+
+
+
+/*section-5*/
+.text5 {
+    display: grid;
+    grid-template-areas: 
+    "text5-1"
+    "text5-4"
+    "text5-7"
+    "text5-2"
+    "text5-5"
+    "text5-8"
+    "text5-3"
+    "text5-6"
+    "text5-9";
+     width: 340px;
+     position: relative;
+     margin-left: 0px;
+}
+.text-items{
+    margin-left: 0px;
+}    
+.click5-1 {
+    margin-left: 0px;   
+    margin-bottom: 70px;
+}
+.text5-2 {
+    margin-left: 0px; 
+}
+.cont5 {
+    display: flex;
+    justify-content: center;
+}
+.text-mobile {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 24px;
+}
+
+
+
+/*section-6*/
+.contre-9 {
+    width: 768px;
+}
+.cont6 {
+    display: flex;
+    justify-content: center;
+    width: 768px;
+}
+
+
+
+/*section-7*/
+
+
+
+
+
+/*section-8*/
+
+
+
+
+/*section-9*/
+
+.cont9 {
+    background-color: black;
+    grid-template-areas: 
+    "grid-item-hey-2"
+    "items-forma-cont-8"
+    "maps"
+    "item-text-2-cont-9";
+    top: 0px;
+    height: 2000px;
+    bottom: auto;
+    margin-top: 124px;
+    gap: 60px;
+}
+
+.items-forma-cont-8 {
+    grid-template-areas: 
+    "forma-2-header"
+    "oneclick"
+    "twoclick"
+    "threeclick"
+    "first-checkbox-2"
+    "button-forma-2";
+    width: 340px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-top: 0px;
+    background-color: black;
+    gap: 60px;
+}
+.grid-item-9 {
+    margin-top: -120px;
+    justify-content: center;
+}
+.name2 {
+    margin-left: 0px;
+}
+.name3 {
+    margin-left: 0px;
+    width: 215px;
+}
+.name-3-three {
+    width: 215px;
+}
+.contre-9 {
+    background-image: none;
+    border-color: black;
+    width: auto;
+    height: 100%;
+}
+.forma-input-2-threeclick {
+    margin-top: 0px;
+}
+.forma-input-2-twoclick {
+    margin-top: 0px;
+}
+.forma-input-2-oneclick {
+    margin-top: 0px;
+}
+.first-checkbox-2 {
+    margin-top: 0px;
+}
+.click-2-forma-2 {
+    margin-top: 0px; 
+    width: 340px;
+}
+.maps {
+    width: 100%;
+    height: 100%;
+   
+}
+
+.text-2-cont-9 {
+    width: 340px;
+}
+.posision-button-2 {
+    text-align: left;
+    margin-left: 0px;
+}
+
+.header-forma-2 {
+    font-family: 'Yeseva One';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: center;
+    
+}
+
+.rostov {
+    font-family: 'Yeseva One';
+font-size: 18px;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: center;
+width: 290px;
+
+}
+
+
+
+}
